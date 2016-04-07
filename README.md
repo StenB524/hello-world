@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository. Built for learning and testing.  
+Lucky me! I get to learn! Soon, to take over the world! mwahahahaha....
